@@ -1,5 +1,5 @@
-html{
-    font-family: Veranda sans-serif;
+html {
+    font-family: Verdana, sans-serif;
     background-color: black;
     text-align: center;
 }
@@ -10,7 +10,7 @@ h1{
     font-size: 50px
 }
 
-link{
+a {
     color: aquamarine;
     font-size: 16px;
 }
