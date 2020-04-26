@@ -1,6 +1,11 @@
 html{
     font-family: Veranda sans-serif;
     background-color: black;
-    text-align: Center;
+    text-align: center;
 }
 
+h1{
+    font-weight: 400;
+    color: white;
+    font size 50px
+}
